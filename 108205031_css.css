@@ -1,0 +1,23 @@
+body{
+	background-color: #EBEBFF;
+}
+div{
+	background-color: #DEFFFF;
+	width: 340px;
+	position: relative;
+	border: 0;
+	margin-right: auto;
+	margin-left: auto;
+}
+h1{
+	background-color:Cornsilk;
+}
+input{
+	color: purple;
+	text-decoration: underline;
+}
+img{
+	float: right;
+	width: 115px;
+	height: 73px;
+}
